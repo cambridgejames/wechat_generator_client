@@ -1,0 +1,2 @@
+# wechat_generator_client
+通过简单的设置和获取班级成员信息批量生成微信朋友圈截图
