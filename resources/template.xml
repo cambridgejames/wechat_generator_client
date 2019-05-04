@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+	<fonts>
+		<template id="0">微软雅黑</template>
+		<template id="1">微软雅黑</template>
+		<template id="2">微软雅黑</template>
+		<template id="3">微软雅黑</template>
+		<template id="4">微软雅黑</template>
+		<template id="5">微软雅黑</template>
+		<template id="6">微软雅黑</template>
+		<template id="7">微软雅黑</template>
+		<template id="8">微软雅黑</template>
+		<template id="9">微软雅黑</template>
+	</fonts>
+	<screens>
+		<template id="2">
+			<main>
+				<width>1075</width>
+				<height>1355</height>
+				<statusBarHeight>72</statusBarHeight>
+				<backgroundHeight>806</backgroundHeight>
+				<bottomLine>1330</bottomLine>
+			</main>
+			<text>
+				<topTime>
+					<x>952</x>
+					<y>50</y>
+					<height>34</height>
+				</topTime>
+				<rightNickname>
+					<x>805</x>
+					<y>766</y>
+					<height>42</height>
+				</rightNickname>
+				<leftNickname>
+					<x>155</x>
+					<y>976</y>
+					<height>42</height>
+				</leftNickname>
+				<studentInfo>
+					<x>153</x>
+					<y>1041</y>
+					<height>40</height>
+				</studentInfo>
+				<linkText>
+					<x>291</x>
+					<singleLine>1128</singleLine>
+					<doubleLine>1094</doubleLine>
+					<height>34</height>
+				</linkText>
+				<bottomTime>
+					<x>155</x>
+					<y>1276</y>
+					<height>30</height>
+				</bottomTime>
+			</text>
+			<block>
+				<topReturn>
+					<x>34</x>
+					<y>111</y>
+					<width>30</width>
+					<height>45</height>
+				</topReturn>
+				<topCamera>
+					<x>981</x>
+					<y>111</y>
+					<width>55</width>
+					<height>45</height>
+				</topCamera>
+				<rightPortrait>
+					<x>833</x>
+					<y>675</y>
+					<width>216</width>
+					<height>216</height>
+				</rightPortrait>
+				<leftPortrait>
+					<x>30</x>
+					<y>930</y>
+					<width>104</width>
+					<height>104</height>
+				</leftPortrait>
+				<linkIcon>
+					<x>161</x>
+					<y>1082</y>
+					<width>109</width>
+					<height>109</height>
+				</linkIcon>
+				<bottomFunction>
+					<x>968</x>
+					<y>1240</y>
+					<width>82</width>
+					<height>52</height>
+				</bottomFunction>
+				<grayBackground>
+					<x>153</x>
+					<y>1073</y>
+					<width>896</width>
+					<height>127</height>
+				</grayBackground>
+			</block>
+			<screenshot>
+				<range id="0">
+					<top>0</top>
+					<bottom>1355</bottom>
+				</range>
+				<range id="1">
+					<top>80</top>
+					<bottom>1355</bottom>
+				</range>
+				<range id="2">
+					<top>810</top>
+					<bottom>1355</bottom>
+				</range>
+				<range id="3">
+					<top>80</top>
+					<bottom>1320</bottom>
+				</range>
+				<range id="4">
+					<top>810</top>
+					<bottom>1320</bottom>
+				</range>
+			</screenshot>
+		</template>
+		<template id="5">
+			<main>
+				<width>886</width>
+				<height>1305</height>
+				<statusBarHeight>84</statusBarHeight>
+				<backgroundHeight>778</backgroundHeight>
+				<bottomLine>1286</bottomLine>
+			</main>
+			<text>
+				<topTime>
+					<x>50</x>
+					<y>56</y>
+					<height>26</height>
+				</topTime>
+				<rightNickname>
+					<x>619</x>
+					<y>735</y>
+					<height>40</height>
+				</rightNickname>
+				<leftNickname>
+					<x>148</x>
+					<y>945</y>
+					<height>41</height>
+				</leftNickname>
+				<studentInfo>
+					<x>148</x>
+					<y>1005</y>
+					<height>40</height>
+				</studentInfo>
+				<linkText>
+					<x>282</x>
+					<singleLine>1090</singleLine>
+					<doubleLine>1095</doubleLine>
+					<height>32</height>
+				</linkText>
+				<bottomTime>
+					<x>148</x>
+					<y>1234</y>
+					<height>30</height>
+				</bottomTime>
+			</text>
+			<block>
+				<topReturn>
+					<x>34</x>
+					<y>103</y>
+					<width>27</width>
+					<height>43</height>
+				</topReturn>
+				<topCamera>
+					<x>791</x>
+					<y>103</y>
+					<width>51</width>
+					<height>43</height>
+				</topCamera>
+				<rightPortrait>
+					<x>649</x>
+					<y>652</y>
+					<width>208</width>
+					<height>208</height>
+				</rightPortrait>
+				<leftPortrait>
+					<x>29</x>
+					<y>899</y>
+					<width>100</width>
+					<height>100</height>
+				</leftPortrait>
+				<linkIcon>
+					<x>157</x>
+					<y>1045</y>
+					<width>104</width>
+					<height>104</height>
+				</linkIcon>
+				<bottomFunction>
+					<x>777</x>
+					<y>1197</y>
+					<width>80</width>
+					<height>50</height>
+				</bottomFunction>
+				<grayBackground>
+					<x>147</x>
+					<y>1035</y>
+					<width>710</width>
+					<height>124</height>
+				</grayBackground>
+			</block>
+			<screenshot>
+				<range id="0">
+					<top>0</top>
+					<bottom>1355</bottom>
+				</range>
+				<range id="1">
+					<top>80</top>
+					<bottom>1355</bottom>
+				</range>
+				<range id="2">
+					<top>810</top>
+					<bottom>1355</bottom>
+				</range>
+				<range id="3">
+					<top>80</top>
+					<bottom>1320</bottom>
+				</range>
+				<range id="4">
+					<top>810</top>
+					<bottom>1320</bottom>
+				</range>
+			</screenshot>
+		</template>
+	</screens>
+</configuration>

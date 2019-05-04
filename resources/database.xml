@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+	<!-- DEFAULT SETTINGS -->
+	<!-- 设置为“local”则使用默认本地数据库，设置为“cloud”则使用默认远程数据库 -->
+	<!-- 注释掉“”location字段则“custom”字段生效，使用用户自定义设置 -->
+	<location>cloud</location>
+	<!-- END DEFAULT SETTINGS -->
+
+	<!-- CUSTOM SETTINGS -->
+	<!-- 若要使用用户自定义配置，请先注释掉“”location字段。只支持 MYSQL 数据库 -->
+	<!-- 若要使某项使用程序的默认配置，只需注释该项 -->
+	<custom>
+		<ip>YOURIP</ip><!-- 数据库IP，默认为“localhost” -->
+		<port>YOURPORT</port><!-- 数据库端口号，默认为“3306” -->
+		<database>DATABASENAME</database><!-- 数据库名，默认为“mysql” -->
+		<useSSL>true</useSSL><!-- 是否使用SSL身份验证（MySQL8.0及以上版本默认为true），默认为“true” -->
+		<useUnicode>true</useUnicode><!-- 是否使用Unicode编码方式，默认为“true” -->
+		<serverTimezone>GMT</serverTimezone><!-- 数据库使用的计时方式，默认为“GMT” -->
+		<username>YOURNAME</username><!-- 用户名，默认为“root” -->
+		<password>PASSWORD</password><!-- 密码，默认为“root” -->
+	</custom>
+	<!-- END CUSTOM SETTINGS -->
+</configuration>
